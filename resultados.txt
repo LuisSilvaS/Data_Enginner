@@ -1,0 +1,87 @@
+ID do Produto: 1925529
+Título do Varejista: Notebook Lenovo Ultrafino Ideapad 3i I3-10110u 4GB 256GB SSD Tela 15,6" Windows 11 - Prata
+Maior Variação de Preço: 284400
+-------------------------------------
+ID do Produto: 64352
+Título do Varejista: Home Theater LG LHB655NW Bluetooth 1000W com 5.1 Canais Blu-ray 3D Wireless Função Karaokê
+Maior Variação de Preço: 249899
+-------------------------------------
+ID do Produto: 1980361
+Título do Varejista: Smart TV 43" Led Semp Roku R5500 FHD Wifi Dual Band 3 HDMI 1 USB com Controle por Aplicativo
+Maior Variação de Preço: 240911
+-------------------------------------
+ID do Produto: 1980360
+Título do Varejista: Smart TV LED 50" Semp 50RK8500 RokuUHD HDR Wifi Dual Band 4 Hdmi 1 USB
+Maior Variação de Preço: 239899
+-------------------------------------
+ID do Produto: 722371
+Título do Varejista: Absorvente Intimus Sport Super com Aplicador - 8 unidades
+Maior Variação de Preço: 179800
+-------------------------------------
+ID do Produto: 64319
+Título do Varejista: Home Theater LG LHB645N Bluetooth 1000W com 5.1 Canais Full HD com Blu-Ray 3D Sound Sync Wireless
+Maior Variação de Preço: 169899
+-------------------------------------
+ID do Produto: 1980362
+Título do Varejista: Smart TV LED 32” HD Semp R5500 VA Wi-Fi 3 HDMI 1 USB
+Maior Variação de Preço: 129899
+-------------------------------------
+ID do Produto: 488054
+Título do Varejista: NIVEA Sabonete Líquido Íntimo Suave 250ml
+Maior Variação de Preço: 12598.35
+-------------------------------------
+ID do Produto: 744822
+Título do Varejista: None
+Maior Variação de Preço: 11699
+-------------------------------------
+ID do Produto: 744562
+Título do Varejista: Fralda Pampers Pants Ajuste Total M 84 unidades
+Maior Variação de Preço: 11034
+-------------------------------------
+ID do Produto: 487755
+Título do Varejista: None
+Maior Variação de Preço: 10899
+-------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ID do Produto: 1963569
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1957867
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1008441
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1904894
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1832459
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 747133
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1008533
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1079835
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1952224
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------
+ID do Produto: 1893170
+Título do Varejista: None
+Maior Indisponibilidade: 29
+-------------------------------------

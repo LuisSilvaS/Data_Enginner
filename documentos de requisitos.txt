@@ -1,0 +1,11 @@
+    Nessa tarefa, deverá encontrar-se os 10 produtos com a maior variação de preço, entre o valor encontrado no varejo online 
+e o estipulado pelo fabricante, e os 10 produtos que apresentam maior indisponibilidade. 
+Nosso cliente deseja observar com essa task se existem produtos que estão sendo vendidos 
+com valores muito distantes do ideal. 
+    Para isso, disponibilizamos dados coletados nos varejos em diferentes datas para que possa desenvolver essa atividade. 
+Alguns pontos importantes sobre a estrutura dos nossos dados:
+
+"retailerPrice" -- é preço encontrado no varejo;
+"manufacturerPrice" -- é preço indicado pelo fabricante;
+"priceVariation" -- é a variação do preço, pode ser negativa ou positiva.
+“available” – se o produto está disponível para compra
