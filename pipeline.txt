@@ -1,5 +1,6 @@
 +--------------+
-|   Ingest     |
+| Ingest Time  |
+|   13.32s     |
 |--------------|
 |   $unwind    |
 |--------------|
@@ -9,3 +10,12 @@
 |--------------|
 |    $limit    |
 +--------------+
+
+
+Pipeline de Agregação:
+
+1. $unwind: Desdobra a matriz 'assortment' para criar um documento para cada elemento.
+2. $lookup: Une a coleção 'images' com base no campo 'idRetailerSKU'.
+3. $group: Agrupa os documentos com base em 'assortment.idRetailerSKU' e calcula várias estatísticas, incluindo 'retailerTitle', 'retailerFinalUrl', 'screenshot', 'retailerTitleFoundWords' e 'maxUnavailable' (usando $sum e $cond).
+4. $sort: Classifica os resultados com base em 'maxUnavailable' em ordem decrescente.
+5. $limit: Limita os resultados a 10 produtos com maior indisponibilidade.
